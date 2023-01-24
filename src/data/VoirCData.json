@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "image": "https://thumbs.dreamstime.com/b/conception-de-logo-d-%C3%A9ducation-groupe-%C3%A9cole-club-enfants-113121686.jpg",
+        "title": "Faculté des Sciences Semlalia",
+        "nom":"Club de Santé",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    },
+    {
+        "id":2,
+        "image": "https://us.123rf.com/450wm/ikalvi/ikalvi1712/ikalvi171200362/92417797-club-d-%C3%A9checs-ou-conception-de-logo-de-vecteur-d-%C3%A9cole-d-%C3%A9checs-.jpg",
+        "title": "F.S.S",
+        "nom":"Club Etudiants ISI",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    },
+    
+    {
+        "id":3,
+        "image":"https://www.stampaprint.fr/blog/wp-content/uploads/2016/08/nouveau-logo-premier-league.png",
+        "title":"Faculté des Sciences Semlalia",
+        "nom":"Club Astronomie",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    },
+    {
+        "id":4,
+        "image":"https://www.shutterstock.com/image-vector/football-soccer-college-vector-logo-260nw-399606532.jpg",
+        "title":"SUP DE CO",
+        "nom":"Club Sport",
+        "description":"Hub des passionnés de sport, et vecteur de nobles valeurs telles que la solidarité, l’esprit d’équipe, l’intégration et le respect. "
+    },
+    {
+        "id":5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREy2riZFqTnDyduJB3vTmmtD5mVK77bGgJJw&usqp=CAU",
+        "title":"SUP DE CO",
+        "nom":"Club Solidarité",
+        "description":"Association à but humanitaire, elle permet à ses adhérents de développer leur entrain social et de solidifier leurs compétences managériales. "
+    },
+    {
+        "id":6,
+        "image":"https://img.freepik.com/vecteurs-premium/logo-club-natation-nageur-inspiration-modele-conception-logo-ecole-natation_9583-775.jpg?w=2000",
+        "title":"SUP DE CO",
+        "nom":"Club Subsahariens",
+        "description":"Les étudiants de l’Afrique Subsaharienne trouvent à l’Ecole l’espace pour présenter leurs origines et traditions, et découvrir celles des autres. "
+    },
+    {
+        "id":7,
+        "image":"https://img.freepik.com/vecteurs-premium/logo-club-natation-nageur-inspiration-modele-conception-logo-ecole-natation_9583-775.jpg?w=2000",
+        "title":"EMSI",
+        "nom":"club robotique",
+        "description":"Les étudiants de l’Afrique Subsaharienne trouvent à l’Ecole l’espace pour présenter leurs origines et traditions, et découvrir celles des autres. "
+    },
+    {
+        "id":8,
+        "image":"https://img.freepik.com/vecteurs-premium/logo-club-natation-nageur-inspiration-modele-conception-logo-ecole-natation_9583-775.jpg?w=2000",
+        "title":"EMSI",
+        "nom":"club informatique",
+        "description":"Les étudiants de l’Afrique Subsaharienne trouvent à l’Ecole l’espace pour présenter leurs origines et traditions, et découvrir celles des autres. "
+    },
+    {
+        "id":9,
+        "image":"",
+        "title":"EMSI",
+        "nom":" club énergies renouvelables",
+        "description":"Les étudiants de l’Afrique Subsaharienne trouvent à l’Ecole l’espace pour présenter leurs origines et traditions, et découvrir celles des autres. "
+    }
+    
+]

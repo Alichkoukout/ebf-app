@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "image": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Emsi_logo.jpg",
+        "title": "EMSI",
+        "nom":"École Marocaine des Sciences de l'Ingénieur",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    },
+    {
+        "id":2,
+        "image": "https://upm.ac.ma/wp-content/uploads/admissiongif.gif",
+        "title": "UPM",
+        "nom":"Université Privée Marrakech",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    },
+    
+    {
+        "id":3,
+        "image":"https://supdeco.ma/core/uploads/2021/10/supdeco.jpeg",
+        "title":"SUP DE CO",
+        "nom":"Sup De Co",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    },
+    {
+        "id":4,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/1/10/ENCGr%C3%A9seau-Logo.png",
+        "title":"ENCG",
+        "nom":"école nationale de gestion et de commerce",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    },
+    {
+        "id":5,
+        "image":"https://lh5.googleusercontent.com/p/AF1QipNaTHDFKuEwioHotD1ZdD3RAvVL6caLu_X4rlo5",
+        "title":"EXEL",
+        "nom":"excel",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    },
+    {
+        "id":6,
+        "image":"https://www.guide-metiers.ma/wp-content/uploads/2019/02/fstsettat.couleur-min.png",
+        "title":"FST",
+        "nom":"Faculté des Sciences et Techniques Marrakech",
+        "description":"fhkdld dldldl dkidid ddkidl dj dkdodeeojdksj sjsoss skskdd jeeos "
+    }
+    
+]

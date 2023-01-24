@@ -1,0 +1,40 @@
+body{
+    background-color: #BAD7E9;
+}
+.gradient-custom {
+    background: -webkit-linear-gradient(right, #266b89, #8DCBE6);
+    }
+    
+    .card-custom {
+    border-bottom-left-radius: 20% 30%;
+    border-top-left-radius: 20% 17%;
+    background-color: #4ea3ca73 ;
+    height: 375px;
+    
+    }
+    
+    .input-custom {
+    background-color: white ;
+    }
+    
+    .white-text {
+    color: hsl(52, 0%, 98%);
+    font-weight: 100 ;
+    font-size: 14px;
+    }
+    
+    .back-button {
+    background-color: hsl(52, 0%, 98%);
+    font-weight: 700;
+    color: black ;
+    margin-top: 50px ;
+    }
+    .float-end{
+    background-color: hsl(52, 0%, 98%);
+    font-weight: 700;
+    color: black ;
+    margin-top: -40px ;
+    }
+   img {
+    border-radius: 20px;
+   }
