@@ -2,5 +2,17 @@
     background-color:#FCFFE7;
     border-radius: 50px;
     margin-top: 25px;
+    margin-bottom: -25px;
     width: 1000px;
+    margin-left: 122px;
+  }
+  .tt1{
+    margin-right: 150px;
+    color: black;
+    font-size: 20px;
+  }
+  .tt2{
+    margin-left: 50px;
+    color: black;
+    font-size: 20px;
   }
