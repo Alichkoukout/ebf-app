@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export function Button() {
   return (
     <Link to='sign-up'>
-      <button className='btn'>Connexion</button>
+      <button className='btn btn-primary'>Connexion</button>
     </Link>
   );
 }

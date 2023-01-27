@@ -33,7 +33,7 @@ function Cards() {
               src={img2}
               text='Ajouter un club'
               label='Ajouter'
-              path='/propos'
+              path='/'
             />
             <CardItem
               src={img3}

@@ -4,12 +4,9 @@ import VoirClub from './VoirClub';
 
 function ClubV() {
     return (
-     
             <>
-               
                 <VoirClub />
             </>
-      
     )
 }
 

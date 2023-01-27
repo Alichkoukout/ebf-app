@@ -13,6 +13,7 @@ import './App.css';
 import ClubV from './components/Club/ClubV';
 import Etabli from './components/Etablissement/Etabli';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import MyParagraph from './components/PageDescrip/DescEmsi';
 
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
         <Route path='/consulting' component={Consulting} />
         <Route path='/ClubV' component={ClubV} />
         <Route path='/Etabli' component={Etabli} />
+        <Route path="/route/to/new/page/:id" component={MyParagraph} />
       </Switch>
     </Router>
     </>

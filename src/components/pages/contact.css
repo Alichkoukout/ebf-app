@@ -30,10 +30,11 @@ body{
     margin-top: 50px ;
     }
     .float-end{
-    background-color: hsl(52, 0%, 98%);
+    background-color: #BAD7E9;
     font-weight: 700;
     color: black ;
-    margin-top: -40px ;
+    margin-top: -27px ;
+    border-radius: 10px;
     }
    img {
     border-radius: 20px;

@@ -1,6 +1,7 @@
 import React, {useState} from "react";
 import "./VClub.css";
 import data from "../../data/VoirCData.json";
+import { Link } from 'react-router-dom';
 
 function VoirClub() {
 
@@ -32,9 +33,10 @@ function VoirClub() {
                 return(
                   <div className="template" key={val.id}>
                     <img src={val.image} alt="La photo du club" />
-                      <h3>{val.title}</h3>
-            
-                      <b ><p className="nom"><i>Nom du club :</i>{val.nom}</p></b>
+                      <p className="title-p">{val.title}</p>
+                      <Link to={`/route/to/new/page/${val.id}`}>
+                      <b ><button className="btnn"><i><span></span></i>{val.nom}</button></b>
+                      </Link>
                   </div> 
                 )
               })

@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import "./Etabli.css"
 import data from "../../data/EtabliData.json";
-
+import {Link} from 'react-router-dom';
 function VoirEtabli() {
 
   const [searchTerm, setSearchTerm] = useState("");
@@ -31,10 +31,12 @@ function VoirEtabli() {
               .map((val) => {
                 return(
                   <div className="template" key={val.id}>
-                    <img src={val.image} alt="La photo du club" />
-                      <h3>{val.title}</h3>
-            
-                      <b ><p className="nom"><i>Nom d'établissement :</i>{val.nom}</p></b>
+
+                    <img src={val.image} alt="La photo d'établissement" />
+                      <h4>{val.title}</h4>
+                       <Link to={`/route/to/new/page/${val.id}`}>
+                      <b ><button className="btnn"><i></i>{val.nom}</button></b>
+                      </Link>
                   </div> 
                 )
               })

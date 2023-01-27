@@ -33,7 +33,7 @@ export default function Delivery() {
                   </MDBRow>
                   <MDBRow className="mb-4">
                     <MDBCol>
-                      <MDBInput label='Ville' type='text' />
+                      <MDBInput label='Email' type='email' />
                     </MDBCol>
                     <MDBCol>
                       <MDBInput label='Sujet' type='text' />
@@ -47,7 +47,7 @@ export default function Delivery() {
                   </MDBRow>
 
                   <div className="float-end">
-                    <MDBBtn rounded style={{backgroundColor: '#7FBCD2'}}>Se Connecter</MDBBtn>
+                    <MDBBtn rounded style={{backgroundColor: '#7FBCD2'}}>ENVOYER</MDBBtn>
                   </div>
                 </form>
               </MDBCardBody>
